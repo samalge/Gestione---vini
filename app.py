@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import json
 import os
@@ -964,4 +964,3 @@ else:
     st.success(
         "✅ Inga produkter behöver beställas."
     )
-```
