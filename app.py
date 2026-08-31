@@ -30,7 +30,7 @@ STANDARD_KATEGORIER = {
     "Hantverksöl": {}
 }
 
-LAGERGRÄNS = 3
+LAGERGRÄNS = 6
 
 
 # ============================================================
